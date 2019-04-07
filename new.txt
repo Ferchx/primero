@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 vaderz es gay
+=======
+mike ahora es el gay
+>>>>>>> fix
